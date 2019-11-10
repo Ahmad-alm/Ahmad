@@ -1,2 +1,0 @@
-insert
-print “Hello Github!”
